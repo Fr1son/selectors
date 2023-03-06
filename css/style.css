@@ -1,0 +1,36 @@
+*{
+  background-color: bisque;
+}
+h1{
+  text-align: center;
+}
+hr{
+  border-color: aqua;
+  border-width: 3px;
+}
+.text{
+  color:blue;
+  font-size: 20px;
+}
+#text2{
+  color:blueviolet;
+  text-decoration: line-through;
+  font-size: 20px;
+}
+span{
+  color:green;
+  font-weight: bold;
+}
+.example.kk{
+  color:brown;
+  font-weight: bolder;
+}
+.orange{
+  color:orange;
+}
+.pink{
+  color: pink;
+}
+.blue{
+  color:blue;
+}
